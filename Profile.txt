@@ -1,0 +1,8 @@
+FirstName: Lohrejuhn
+Middle Name: Cainoy
+LastName: Batestil
+Gender: Male
+Age: 20
+Birthday: October 19 2004 
+Contacts: juhnoktober968@gmail.com 
+
