@@ -5,3 +5,9 @@ Gender: Male
 Age: 20
 Birthdate: October 19, 2004
 Contacts: 09060313761
+Birth of Place: Kitcharao Agusan Del Norte
+Religion: Roman Catholic
+Father's Name: Luciano O Batestil
+Occupation: Farmer
+Mother's Name: Myrna C. Batestil
+Occupation: Housewife
