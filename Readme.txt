@@ -11,3 +11,7 @@ git branch Batestil_B4
 git checkout Batestil_B1
 git add Profile.txt Readme.txt
 git commit -m "Amend Profile.txt to Batestil_B1, also add command in Readme.txt"
+git checkout Batestil_B2
+git add Education.txt Readme.txt
+git commit -m "Amend Education.txt to Batestil_B2, also add command in Readme.txt"
+
